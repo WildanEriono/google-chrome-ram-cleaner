@@ -1,0 +1,48 @@
+C:\Users\MultiAgnetSystem\Desktop\Memory Cleaning Audition\Memory Cleaning Audition\bin\Debug\Memory Cleaning Audition.exe.config
+C:\Users\MultiAgnetSystem\Desktop\Memory Cleaning Audition\Memory Cleaning Audition\bin\Debug\Memory Cleaning Audition.exe
+C:\Users\MultiAgnetSystem\Desktop\Memory Cleaning Audition\Memory Cleaning Audition\bin\Debug\Memory Cleaning Audition.pdb
+C:\Users\MultiAgnetSystem\Desktop\Memory Cleaning Audition\Memory Cleaning Audition\bin\Debug\Memory Cleaning Audition.xml
+C:\Users\MultiAgnetSystem\Desktop\Memory Cleaning Audition\Memory Cleaning Audition\obj\Debug\Memory Cleaning Audition.vbprojAssemblyReference.cache
+C:\Users\MultiAgnetSystem\Desktop\Memory Cleaning Audition\Memory Cleaning Audition\obj\Debug\Memory_Cleaning_Audition.Form1.resources
+C:\Users\MultiAgnetSystem\Desktop\Memory Cleaning Audition\Memory Cleaning Audition\obj\Debug\Memory_Cleaning_Audition.Resources.resources
+C:\Users\MultiAgnetSystem\Desktop\Memory Cleaning Audition\Memory Cleaning Audition\obj\Debug\Memory Cleaning Audition.vbproj.GenerateResource.cache
+C:\Users\MultiAgnetSystem\Desktop\Memory Cleaning Audition\Memory Cleaning Audition\obj\Debug\Memory Cleaning Audition.vbproj.CoreCompileInputs.cache
+C:\Users\MultiAgnetSystem\Desktop\Memory Cleaning Audition\Memory Cleaning Audition\obj\Debug\Memory Cleaning Audition.exe
+C:\Users\MultiAgnetSystem\Desktop\Memory Cleaning Audition\Memory Cleaning Audition\obj\Debug\Memory Cleaning Audition.xml
+C:\Users\MultiAgnetSystem\Desktop\Memory Cleaning Audition\Memory Cleaning Audition\obj\Debug\Memory Cleaning Audition.pdb
+E:\tools\ram\Memory Cleaning Audition\Memory Cleaning Audition\obj\Debug\Memory Cleaning Audition.vbproj.GenerateResource.cache
+E:\tools\ram\Memory Cleaning Audition\Memory Cleaning Audition\obj\Debug\Memory Cleaning Audition.vbproj.CoreCompileInputs.cache
+E:\tools\ram\Memory Cleaning Audition\Memory Cleaning Audition\bin\Debug\Memory Optmizer.exe.config
+E:\tools\ram\Memory Cleaning Audition\Memory Cleaning Audition\bin\Debug\Memory Optmizer.exe
+E:\tools\ram\Memory Cleaning Audition\Memory Cleaning Audition\bin\Debug\Memory Optmizer.pdb
+E:\tools\ram\Memory Cleaning Audition\Memory Cleaning Audition\bin\Debug\Memory Optmizer.xml
+E:\tools\ram\Memory Cleaning Audition\Memory Cleaning Audition\obj\Debug\Memory Optmizer.exe
+E:\tools\ram\Memory Cleaning Audition\Memory Cleaning Audition\obj\Debug\Memory Optmizer.xml
+E:\tools\ram\Memory Cleaning Audition\Memory Cleaning Audition\obj\Debug\Memory Optmizer.pdb
+E:\tools\ram\Memory Cleaning Audition\Memory Cleaning Audition\obj\Debug\Memory_Optimizer.Form1.resources
+E:\tools\ram\Memory Cleaning Audition\Memory Cleaning Audition\obj\Debug\Memory_Optimizer.Resources.resources
+C:\Users\Administrator\Documents\sc\optimized\Memory Cleaning Audition\bin\Debug\Memory Optmizer.exe.config
+C:\Users\Administrator\Documents\sc\optimized\Memory Cleaning Audition\bin\Debug\Memory Optmizer.exe
+C:\Users\Administrator\Documents\sc\optimized\Memory Cleaning Audition\bin\Debug\Memory Optmizer.pdb
+C:\Users\Administrator\Documents\sc\optimized\Memory Cleaning Audition\bin\Debug\Memory Optmizer.xml
+C:\Users\Administrator\Documents\sc\optimized\Memory Cleaning Audition\obj\Debug\Memory Cleaning Audition.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\sc\optimized\Memory Cleaning Audition\obj\Debug\Memory Cleaning Audition.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\sc\optimized\Memory Cleaning Audition\obj\Debug\Memory_Optimizer.Form1.resources
+C:\Users\Administrator\Documents\sc\optimized\Memory Cleaning Audition\obj\Debug\Memory_Optimizer.Resources.resources
+C:\Users\Administrator\Documents\sc\optimized\Memory Cleaning Audition\obj\Debug\Memory Cleaning Audition.vbproj.GenerateResource.cache
+C:\Users\Administrator\Documents\sc\optimized\Memory Cleaning Audition\obj\Debug\Memory Cleaning Audition.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\sc\optimized\Memory Cleaning Audition\obj\Debug\Memory Optmizer.exe
+C:\Users\Administrator\Documents\sc\optimized\Memory Cleaning Audition\obj\Debug\Memory Optmizer.xml
+C:\Users\Administrator\Documents\sc\optimized\Memory Cleaning Audition\obj\Debug\Memory Optmizer.pdb
+C:\Users\Administrator\Documents\sc\Chrome Optimizer\Memory Cleaning Chrome\bin\Debug\Memory Optmizer.exe.config
+C:\Users\Administrator\Documents\sc\Chrome Optimizer\Memory Cleaning Chrome\bin\Debug\Memory Optmizer.exe
+C:\Users\Administrator\Documents\sc\Chrome Optimizer\Memory Cleaning Chrome\bin\Debug\Memory Optmizer.pdb
+C:\Users\Administrator\Documents\sc\Chrome Optimizer\Memory Cleaning Chrome\bin\Debug\Memory Optmizer.xml
+C:\Users\Administrator\Documents\sc\Chrome Optimizer\Memory Cleaning Chrome\obj\Debug\Memory Cleaning Chrome.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\sc\Chrome Optimizer\Memory Cleaning Chrome\obj\Debug\Memory_Optimizer.Form1.resources
+C:\Users\Administrator\Documents\sc\Chrome Optimizer\Memory Cleaning Chrome\obj\Debug\Memory_Optimizer.Resources.resources
+C:\Users\Administrator\Documents\sc\Chrome Optimizer\Memory Cleaning Chrome\obj\Debug\Memory Cleaning Chrome.vbproj.GenerateResource.cache
+C:\Users\Administrator\Documents\sc\Chrome Optimizer\Memory Cleaning Chrome\obj\Debug\Memory Cleaning Chrome.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\sc\Chrome Optimizer\Memory Cleaning Chrome\obj\Debug\Memory Optmizer.exe
+C:\Users\Administrator\Documents\sc\Chrome Optimizer\Memory Cleaning Chrome\obj\Debug\Memory Optmizer.xml
+C:\Users\Administrator\Documents\sc\Chrome Optimizer\Memory Cleaning Chrome\obj\Debug\Memory Optmizer.pdb
